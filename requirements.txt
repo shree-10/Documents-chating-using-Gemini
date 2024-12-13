@@ -8,3 +8,5 @@ PyPDF2
 faiss-cpu
 langchain_google_genai
 python-docx
+googletrans==4.0.0-rc1
+pdf2image
